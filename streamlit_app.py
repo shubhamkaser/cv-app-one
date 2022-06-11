@@ -8,7 +8,7 @@ with open("style.css") as f:
 # Header 
 st.write('''
 # Shubham Kaser
-##### Senior Business Analyst
+##### Lead Business Analyst
 ##### *Resume* 
 ''')
 
@@ -17,7 +17,7 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- 4 years experienced Business Analyst armed with a Post Graduate Diploma in Data Science with a passion to solve real-world business challenges. Skilled at deploying machine learning and statistical modelling algorithms/techniques to identify patterns, extract valuable insights and predict business outcomes. Experienced in managing end-to-end life-cycle of product development across the blockchain, ICO (Initial Coin Offering), education domain and Retail.
+- 4.5 years experienced Business Analyst armed with a Post Graduate Diploma in Data Science with a passion to solve real-world business challenges. Skilled at deploying machine learning and statistical modelling algorithms/techniques to identify patterns, extract valuable insights and predict business outcomes. Experienced in managing end-to-end life-cycle of product development across the blockchain, ICO (Initial Coin Offering), education domain and Retail.
 ''')
 
 #####################
